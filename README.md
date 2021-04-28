@@ -1,0 +1,2 @@
+# arduino_self_service_cash_register
+雑誌の幼稚園の付録の真似事
